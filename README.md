@@ -8,4 +8,4 @@ He añadido una imagen al proyecto!
 ## Ejemplos aparte
 
 Añado un meme de prueba para practicar un poco Markdown
-![ Mi log](meme.jpg)
+! [ Mi log](meme.jpg)
