@@ -1,4 +1,4 @@
-# Practica 2
+# Mi primer repo
 
 Ejemplo para la practica 2
 
